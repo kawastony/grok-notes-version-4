@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 420" font-family="sans-serif">
+  <rect width="1100" height="420" fill="#f7f9fc"/>
+  <text x="550" y="36" text-anchor="middle" fill="#16324f" font-size="20">QM link: one Callias operator, index fixed</text>
+  <g fill="none" stroke="#1d4e89" stroke-width="1.6">
+    <rect x="40" y="70" width="200" height="90" rx="6"/>
+    <rect x="300" y="70" width="220" height="90" rx="6"/>
+    <rect x="580" y="70" width="220" height="90" rx="6"/>
+    <rect x="860" y="70" width="200" height="90" rx="6"/>
+  </g>
+  <g fill="#16324f" font-size="14">
+    <text x="140" y="104" text-anchor="middle">r = 1, gate on</text>
+    <text x="140" y="126" text-anchor="middle">8-component Wilson</text>
+    <text x="410" y="104" text-anchor="middle">Φ = v f n̂·τ</text>
+    <text x="410" y="126" text-anchor="middle">Index = N_def</text>
+    <text x="690" y="104" text-anchor="middle">d Index / ds = 0</text>
+    <text x="690" y="126" text-anchor="middle">eigenvalues may move</text>
+    <text x="960" y="104" text-anchor="middle">A, P1, P2</text>
+    <text x="960" y="126" text-anchor="middle">bands, not windings</text>
+  </g>
+  <g stroke="#1d4e89" stroke-width="1.6">
+    <path d="M240 115 h60" marker-end="url(#a)"/>
+    <path d="M520 115 h60"/>
+    <path d="M800 115 h60"/>
+  </g>
+  <g fill="none" stroke="#1d4e89" stroke-width="1.6">
+    <rect x="70" y="230" width="280" height="130" rx="6"/>
+    <rect x="410" y="230" width="280" height="130" rx="6"/>
+    <rect x="750" y="230" width="280" height="130" rx="6"/>
+  </g>
+  <g fill="#16324f" font-size="15">
+    <text x="210" y="262" text-anchor="middle">A active</text>
+    <text x="210" y="286" text-anchor="middle">winding held, b locked</text>
+    <text x="210" y="310" text-anchor="middle">F_rel = −0.84</text>
+    <text x="210" y="334" text-anchor="middle">feed +0.088</text>
+    <text x="550" y="262" text-anchor="middle">P1 transitional</text>
+    <text x="550" y="286" text-anchor="middle">same index, b soft</text>
+    <text x="550" y="310" text-anchor="middle">F_rel ≈ −0.55</text>
+    <text x="550" y="334" text-anchor="middle">feed +0.04</text>
+    <text x="890" y="262" text-anchor="middle">P2 stalled</text>
+    <text x="890" y="286" text-anchor="middle">pair index 0, or stall</text>
+    <text x="890" y="310" text-anchor="middle">F_rel = −0.33</text>
+    <text x="890" y="334" text-anchor="middle">exit keeps N_def</text>
+  </g>
+</svg>
