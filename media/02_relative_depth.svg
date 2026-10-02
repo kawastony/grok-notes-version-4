@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" font-family="sans-serif">
+  <rect width="1200" height="640" fill="#f7f9fc"/>
+  <text x="600" y="40" text-anchor="middle" fill="#16324f" font-size="22">Three relative depths of the same bridge</text>
+  <g fill="none" stroke="#1d4e89" stroke-width="2">
+    <rect x="30" y="60" width="360" height="470" rx="8"/>
+    <rect x="420" y="60" width="360" height="470" rx="8"/>
+    <rect x="810" y="60" width="360" height="470" rx="8"/>
+  </g>
+  <text x="50" y="98" fill="#1d4e89" font-size="20">A  deep active</text>
+  <text x="440" y="98" fill="#1d4e89" font-size="20">P1  mid pause</text>
+  <text x="830" y="98" fill="#1d4e89" font-size="20">P2  shallow pause</text>
+  <g fill="none" stroke="#1d4e89">
+    <path d="M80 400 C120 180 280 180 320 400" stroke-width="2"/>
+    <path d="M110 400 C140 230 270 230 300 400" stroke="#7eb6e6"/>
+    <path d="M140 400 C160 270 250 270 270 400" stroke="#3aa0ff"/>
+    <path d="M150 300 h100" stroke-width="2.4"/>
+    <path d="M165 300 v18 M235 300 v18"/>
+  </g>
+  <g fill="none" stroke="#1d4e89">
+    <path d="M470 250 C520 420 680 420 730 250" stroke-width="2"/>
+    <path d="M500 270 C540 380 650 380 700 270" stroke="#7eb6e6"/>
+    <path d="M530 310 h140" stroke-width="2.4"/>
+    <path d="M555 310 v16 M645 310 v16"/>
+  </g>
+  <g fill="none" stroke="#9bb8d3">
+    <circle cx="990" cy="300" r="40"/><circle cx="990" cy="300" r="70"/><circle cx="990" cy="300" r="100"/><circle cx="990" cy="300" r="130"/>
+  </g>
+  <g fill="none" stroke="#1d4e89" stroke-width="2.2">
+    <path d="M930 300 h120"/>
+    <path d="M955 300 v14 M1025 300 v14"/>
+  </g>
+  <g fill="#16324f" font-size="15">
+    <text x="50" y="470">relative depth: deep</text>
+    <text x="440" y="470">relative depth: mid</text>
+    <text x="830" y="470">relative depth: shallow</text>
+  </g>
+  <text x="600" y="580" text-anchor="middle" fill="#1d4e89" font-size="18">relative depth sets the lock · intensity conserved across pause</text>
+  <text x="600" y="608" text-anchor="middle" fill="#5b6b7c" font-size="14">v2 depth drawing, labels corrected — grok-notes-version-4</text>
+</svg>
